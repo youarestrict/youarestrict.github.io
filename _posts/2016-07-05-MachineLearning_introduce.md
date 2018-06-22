@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "机器学习入门（名词科普）"
-date: 2016-07-05 
-description: "机器学习入门篇"
-tag: 机器学习  
+title: "微信小程序"
+date: 2018-06-21 
+description: "小程序学习入门篇"
+tag: 实训月  
 
 ---     
 
